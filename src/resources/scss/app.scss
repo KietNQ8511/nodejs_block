@@ -1,0 +1,14 @@
+@import 'variable';
+h1 {
+    color: $red-color;
+}
+h2 {
+    color: green;
+}
+.app {
+    height: 500px;
+    line-height: 24px;
+    width: 500px;
+    background-color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+}
